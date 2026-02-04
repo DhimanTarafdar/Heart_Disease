@@ -2,7 +2,7 @@
 
 This project aims to predict the likelihood of a patient having heart disease based on various medical attributes. The analysis is performed using a dataset from UCI Machine Learning Repository, and several classification models are trained and evaluated to find the best performing one.
 
-## 🚀 Project Overview
+## Project Overview
 
 The main objective is to build a machine learning model that can accurately classify whether a patient has heart disease or not. This is a binary classification problem.
 
