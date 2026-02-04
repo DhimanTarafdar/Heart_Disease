@@ -26,7 +26,7 @@ The dataset used is `heart_disease_dataset.csv`. It contains 14 columns (attribu
 - `thal`: 3 = normal; 6 = fixed defect; 7 = reversable defect
 - `target`: **(Target Variable)** 0 = no disease, 1 = disease
 
-## 🛠️ Technologies & Libraries Used
+##Technologies & Libraries Used
 
 - **Python**: Core programming language
 - **Pandas**: For data manipulation and analysis
