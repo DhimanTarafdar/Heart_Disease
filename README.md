@@ -54,7 +54,7 @@ The dataset used is `heart_disease_dataset.csv`. It contains 14 columns (attribu
     jupyter notebook Heart_Disease.ipynb
     ```
 
-## 📈 Methodology
+## Methodology
 
 The project follows these key steps:
 1.  **Data Loading & Initial Exploration:** Understanding the features and checking for missing values.
