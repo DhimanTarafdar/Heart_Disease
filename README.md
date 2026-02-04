@@ -77,6 +77,3 @@ The performance of the models on the test set was as follows:
 
 Based on the evaluation, **Logistic Regression** was the best-performing model for this dataset.
 
-## ✒️ Author
-
-- **Dhiman Tarafdar** - [GitHub Profile](https://github.com/DhimanTarafdar)
