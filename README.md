@@ -65,7 +65,7 @@ The project follows these key steps:
     - `DecisionTreeClassifier`
 4.  **Model Evaluation:** Comparing the models based on their **Accuracy** score to determine the most effective one.
 
-## 📊 Results
+##Results
 
 The performance of the models on the test set was as follows:
 
