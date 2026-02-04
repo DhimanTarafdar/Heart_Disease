@@ -8,7 +8,7 @@ The main objective is to build a machine learning model that can accurately clas
 
 The complete analysis and model building process can be found in the Jupyter Notebook: `Heart_Disease.ipynb`.
 
-## 💾 Dataset
+## Dataset
 
 The dataset used is `heart_disease_dataset.csv`. It contains 14 columns (attributes) including:
 - `age`: Age of the patient
