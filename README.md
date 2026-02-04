@@ -35,7 +35,7 @@ The dataset used is `heart_disease_dataset.csv`. It contains 14 columns (attribu
 - **Matplotlib & Seaborn**: For data visualization
 - **Jupyter Notebook**: For interactive coding and analysis
 
-## ⚙️ How to Run This Project
+## How to Run This Project
 
 1.  **Clone the repository:**
     ```bash
